@@ -1,0 +1,46 @@
+#headtext{
+    color: #ddd;
+    padding-top: 10px;
+    font-size: 30px;
+    padding-left: 10px;
+}
+.App{
+    text-align: center;
+    margin-top: 30px;
+  }
+  
+  input,textarea{
+    border-radius: 3px 3px 3px;
+    transition: all 0.3s;
+    border: 1px solid#ddd;
+    box-shadow: 0 0 8px 2px rgba(0,0,0,0.2);
+  }
+  .res{
+    margin-top:20px;
+    margin-left: 20px;
+    width:'200px';
+    height:fit-content;
+    border: 1px solid#ddd;
+    outline: 0;
+    float: left;
+    box-shadow: 0 0 8px 2px rgba(0,0,0,0.2);
+  }
+  .box{
+   height:300px;
+   width: 200px;
+   background-color: beige;
+  }
+  #add{
+    background-color: rgb(240, 176, 56);
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+  }
+  #delete{
+    color: rgb(240, 176, 56);
+    margin-top: 50px;
+    height: 30px;
+    width: 60px;
+    background-color: transparent;
+    border:  1px solid#ddd ;
+  }
